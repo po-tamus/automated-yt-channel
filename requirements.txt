@@ -1,0 +1,5 @@
+instaloader==4.12
+instalooter==2.4.4
+python-dateutil==2.9.0.post0
+moviepy==1.0.3
+
